@@ -3,13 +3,12 @@
 <h1 align="center">Hi 👋, I'm Srujan Patel</h1>
 <h3 align="center">A passionate Backend developer and ML expert from India.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<p align="right" alt="Coding" width="500"> <img src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif"/> </p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srujanpatel47&label=Profile%20views&color=0e75b6&style=flat" alt="srujanpatel47" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=srujanpatel47&label=Profile%20views&color=0e75b6&style=flat" alt="srujanpatel47" /> </p>
 
 - 💬 Ask me about **Python, ML, PHP, JAVA, .NET, SQL**
-
+- 
 - 📫 How to reach me **srujanspd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
