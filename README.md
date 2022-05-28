@@ -1,7 +1,5 @@
 [![MasterHead](https://scitechdaily.com/images/Artificial-Neural-Networks-Data-Computing-Concept.gif)]
 
-https://scitechdaily.com/images/Artificial-Neural-Networks-Data-Computing-Concept.gif
-
 <h1 align="center">Hi 👋, I'm Srujan Patel</h1>
 <h3 align="center">A passionate Backend developer and ML expert from India.</h3>
 
