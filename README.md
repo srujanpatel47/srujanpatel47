@@ -3,11 +3,9 @@
 <h1 align="center">Hi 👋, I'm Srujan Patel</h1>
 <h3 align="center">A passionate Backend developer and ML expert from India.</h3>
 
-<p align="right"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE200_at000p0gYMKdKGMh1g7HskuUYsPqGsxf_Whs&s" alt="srujanpatel47" /> </p>
-
-
+<p align="right"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE200_at000p0gYMKdKGMh1g7HskuUYsPqGsxf_Whs&s" alt="srujanpatel47" /> 
 - 💬 Ask me about **Python, ML, PHP, JAVA, .NET, SQL**
-- 📫 How to reach me **srujanspd@gmail.com**
+- 📫 How to reach me **srujanspd@gmail.com**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
