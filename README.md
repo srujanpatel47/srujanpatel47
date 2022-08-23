@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Srujan Patel</h1>
 <h3 align="center">A passionate Backend developer and ML expert from India.</h3>
 
-<p align="right"> <img src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif"/> </p>
+<p align="right"> <img src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" /> </p>
 
 - 💬 Ask me about **Python, ML, PHP, JAVA, .NET, SQL**
 - 📫 How to reach me **srujanspd@gmail.com**
