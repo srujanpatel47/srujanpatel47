@@ -1,4 +1,4 @@
-[![MasterHead](https://scitechdaily.com/images/Artificial-Neural-Networks-Data-Computing-Concept.gif)]
+
 
 <h1 align="center">Hi 👋, I'm Srujan Patel</h1>
 <h3 align="center">A passionate Backend developer and ML expert from India.</h3>
@@ -8,7 +8,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srujanpatel47&label=Profile%20views&color=0e75b6&style=flat" alt="srujanpatel47" /> </p>
 
 - 💬 Ask me about **Python, ML, PHP, JAVA, .NET, SQL**
-- 
 - 📫 How to reach me **srujanspd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
