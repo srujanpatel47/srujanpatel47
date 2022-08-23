@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srujanpatel47&label=Profile%20views&color=0e75b6&style=flat" alt="srujanpatel47" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srujanpatel47" alt="srujanpatel47" /></a> </p>
-
 - 💬 Ask me about **Python, AI, ML, JAVA, PHP, SQL**
 
 - 📫 How to reach me **srujanspd@gmail.com**
