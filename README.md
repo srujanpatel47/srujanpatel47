@@ -7,7 +7,7 @@
 <p align="right"> <img src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" /> </p>
 - 💬 Ask me about **Python, AI, ML, DL, Statistical Analysis, SQL**
 
-- 📫 How to reach me **srujanspd@gmail.com**
+- 📫 How to reach me **srujanpatel12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
