@@ -8,28 +8,31 @@
   Data Analyst | Machine Learning Background | Big Data Analytics
 </p>
 
+<p align="center">
+  Building practical data solutions with Python, SQL, analytics, and structured problem solving.
+</p>
+
 ---
 
 ## 💡 About Me
 
-I work on data problems that start messy and turn into useful insights.  
-My focus is on analytics, SQL, and practical data-driven solutions, with exposure to machine learning and big data tools.
+I work on data problems that start messy and turn into useful insights. My background combines analytics, machine learning concepts, and practical data work across reporting, validation, NLP-style projects, and applied problem solving.
 
 ---
 
 ## 🚀 Featured Projects
 
-🔹 **AI-Powered Sudoku Solver**  
-Hybrid ML + search-based system improving solving efficiency  
-👉 https://github.com/srujanpatel47/AI-powered-Sudoku-solver  
+### AI-Powered Sudoku Solver
+Hybrid ML + search-based system combining learning models with classical algorithms to improve solving efficiency.  
+→ [View Project](https://github.com/srujanpatel47/AI-powered-Sudoku-solver)
 
-🔹 **Affordable Housing Analysis (Ontario)**  
-Panel data analysis with structured insights and visualization  
-👉 https://github.com/srujanpatel47/affordable-housing-ontario-capstone  
+### Affordable Housing Analysis (Ontario)
+Panel data analysis with structured insights and visualizations.  
+→ [View Project](https://github.com/srujanpatel47/affordable-housing-ontario-capstone)
 
-🔹 **WhatsApp Chat Analyzer**  
-NLP-based tool for extracting chat insights and patterns  
-👉 https://github.com/srujanpatel47/WhatsApp-Chat-Analyzer  
+### WhatsApp Chat Analyzer
+NLP-based tool for extracting chat insights and patterns.  
+→ [View Project](https://github.com/srujanpatel47/WhatsApp-Chat-Analyzer)
 
 ---
 
@@ -54,6 +57,6 @@ NLP-based tool for extracting chat insights and patterns
 
 ## 📬 Connect
 
-📧 Email: srujanpatel12@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/srujan-patel-6674b6212/  
-🌐 Portfolio: https://my-portfolio-sage-eight-38.vercel.app  
+- **Email:** srujanpatel12@gmail.com  
+- **LinkedIn:** [srujan-patel-6674b6212](https://www.linkedin.com/in/srujan-patel-6674b6212/)  
+- **Portfolio:** [my-portfolio-sage-eight-38.vercel.app](https://my-portfolio-sage-eight-38.vercel.app)  
