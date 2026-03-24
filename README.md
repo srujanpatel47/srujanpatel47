@@ -35,8 +35,9 @@ NLP-based tool for extracting chat insights and patterns
 
 ## 🧠 Skills
 
-**Languages:** Python, SQL  
-**Analytics:** Power BI, Excel, ETL, Data Validation  
+**Languages:** Python, SQL, R
+**Analytics:** Power BI, Excel, ETL, Data Validation 
+**Statistical Analysis:** Hypothesis Testing, Regression Analysis, Descriptive Statistics, A/B Testing 
 **ML:** scikit-learn, NumPy, Pandas, NLP  
 **Big Data (Exposure):** Apache Spark, Hadoop  
 **Tools:** Git, Flask, Jira  
